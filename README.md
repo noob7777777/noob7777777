@@ -2,7 +2,7 @@
 
 
 <!--
-**runtimem/runtimem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**noob7777777/noob7777777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,14 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=runtimme&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noob7777777&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Recent Posts
 <!-- BLOG-POST-LIST:START -->
-- [微信 ｜ 数据库解密](https://reao.io/archives/347/)
-- [微信 | 对掷骰子和猜拳功能的分析](https://reao.io/archives/331/)
-- [pixel1-android10内核编译](https://reao.io/archives/330/)
-- [jnitrace note](https://reao.io/archives/320/)
-- [Frida 随手记](https://reao.io/archives/241/)
 <!-- BLOG-POST-LIST:END -->
 
