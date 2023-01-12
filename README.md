@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=noob7777777&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=noon7777777&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Recent Posts
 <!-- BLOG-POST-LIST:START -->
